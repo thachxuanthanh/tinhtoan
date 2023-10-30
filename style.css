@@ -1,0 +1,27 @@
+.a:hover {
+  background-color: #1885f2;
+  width: 16rem;
+  align-items: center;
+  font-weight: 700;
+  text-align: center;
+  color: #ecf5fe;
+  border-radius: 10px;
+}
+.btn {
+  border-radius: 10px !important;
+}
+.bg {
+  background-color: #ecf5fe;
+}
+header {
+  font-weight: 700;
+}
+.ft {
+  background-color: #ecf5fe;
+}
+
+@media (max-width: 600px) {
+  footer {
+    display: none;
+  }
+}
